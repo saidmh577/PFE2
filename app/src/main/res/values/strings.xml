@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contrôle du Béton Armé</string>
+
+    <string-array name="type">
+        <item>Zone accidentelle</item>
+        <item>Zone habituelle</item>
+    </string-array>
+
+</resources>
